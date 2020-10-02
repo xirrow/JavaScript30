@@ -1,7 +1,6 @@
-# JavaScript Drum Kit
+# JavaScript JS and CSS Clock
 
-## This JavaScript app is the completed version of Wes Bos' JavaScript Drum Kit project which is a part of Bos' JavaScript30 - 30 Day Vanilla JS Coding Challenge
-
+## This JavaScript app is the completed version of Wes Bos' JavaScript JS and CSS Clock project which is a part of Bos' JavaScript30 - 30 Day Vanilla JS Coding Challenge
 
 ## Completed by Zack Worrix
 
